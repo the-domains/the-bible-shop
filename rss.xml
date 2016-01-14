@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[The Bible Shop]]></title>
         <description><![CDATA[The Bible Shop]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-bible-shop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 16:57:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jan 2016 19:46:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-bible-shop/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://bibliaria.net/wp-content/uploads/2015/12/9781629986425.jpg">]]></description>
+            <link>http://bibliaria.net/?product=mev-economy-bible-faith-passio</link>
+            <guid isPermaLink="false">52469d09-bb80-4ded-aa33-db84e27d9c26</guid>
+            <pubDate>Thu, 14 Jan 2016 19:46:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[KJV REFERENCE BIBLE CENTER-COLUMN]]></title>
-            <description><![CDATA[<article><h1>KJV REFERENCE BIBLE CENTER-COLUMN</h1><p> KJV REFERENCE BIBLE CENTER-COLUMN - A handy-size KJV Bible with a comprehensive center-column cross-reference system. -Introductions for every book of the Bible, plus three pages of full-color maps. -Clear, readable 6.5 point type.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16e33b6d53262290f0165c96222bad21f35c92fa.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>KJV REFERENCE BIBLE CENTER-COLUMN</h1><p> KJV REFERENCE BIBLE CENTER-COLUMN - A handy-size KJV Bible with a comprehensive center-column cross-reference system. -Introductions for every book of the Bible, plus three pages of full-color maps. -Clear, readable 6.5 point type.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/971c6b86cd877cd9aac144e581c5a9ee6c962c96.jpg"></article>]]></description>
             <link>http://bibliaria.net/?product=kjv-reference-bible-center-column</link>
             <guid isPermaLink="false">98744ae2-6f34-4883-8c8d-af2b8bfff50f</guid>
             <pubDate>Wed, 13 Jan 2016 16:56:31 GMT</pubDate>
